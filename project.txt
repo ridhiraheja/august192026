@@ -1,1 +1,2 @@
 Welcome to GitHub Remote Repository Practical
+Second update from local Git repository.
